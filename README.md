@@ -1,5 +1,7 @@
 # vue-test-sandbox
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/naokie/vue-jest-sandbox.svg)](https://greenkeeper.io/)
+
 > A Vue.js project
 
 ## Build Setup
